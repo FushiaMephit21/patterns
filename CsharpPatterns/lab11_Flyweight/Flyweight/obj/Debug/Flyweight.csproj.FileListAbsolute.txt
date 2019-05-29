@@ -1,0 +1,7 @@
+E:\LEARN\CsharpPatterns\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\bin\Debug\Flyweight.exe
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+E:\LEARN\Patterns\CsharpPatterns\lab11_Flyweight\Flyweight\obj\Debug\Flyweight.pdb

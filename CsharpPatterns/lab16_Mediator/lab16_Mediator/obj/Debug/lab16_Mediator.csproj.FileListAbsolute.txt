@@ -1,0 +1,6 @@
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\bin\Debug\lab16_Mediator.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\obj\Debug\lab16_Mediator.csprojResolveAssemblyReference.cache
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\bin\Debug\lab16_Mediator.exe
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\bin\Debug\lab16_Mediator.pdb
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\obj\Debug\lab16_Mediator.exe
+E:\LEARN\Patterns\CsharpPatterns\lab16_Mediator\lab16_Mediator\obj\Debug\lab16_Mediator.pdb

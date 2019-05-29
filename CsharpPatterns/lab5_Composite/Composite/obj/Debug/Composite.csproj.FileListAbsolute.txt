@@ -1,0 +1,8 @@
+E:\LEARN\CsharpPatterns\Composite\Composite\bin\Debug\Composite.exe.config
+E:\LEARN\CsharpPatterns\Composite\Composite\bin\Debug\Composite.exe
+E:\LEARN\CsharpPatterns\Composite\Composite\bin\Debug\Composite.pdb
+E:\LEARN\CsharpPatterns\Composite\Composite\obj\Debug\Composite.exe
+E:\LEARN\CsharpPatterns\Composite\Composite\obj\Debug\Composite.pdb
+E:\LEARN\Patterns\CsharpPatterns\lab5_Composite\Composite\bin\Debug\Composite.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab5_Composite\Composite\obj\Debug\Composite.exe
+E:\LEARN\Patterns\CsharpPatterns\lab5_Composite\Composite\obj\Debug\Composite.pdb

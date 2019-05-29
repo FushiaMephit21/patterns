@@ -1,0 +1,9 @@
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\bin\Debug\Wrapper.exe.config
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\obj\Debug\Wrapper.csprojResolveAssemblyReference.cache
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\bin\Debug\Wrapper.exe
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\bin\Debug\Wrapper.pdb
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\obj\Debug\Wrapper.exe
+E:\LEARN\CsharpPatterns\Wrapper\Wrapper\obj\Debug\Wrapper.pdb
+E:\LEARN\Patterns\CsharpPatterns\lab9_Wrapper\Wrapper\bin\Debug\Wrapper.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab9_Wrapper\Wrapper\obj\Debug\Wrapper.exe
+E:\LEARN\Patterns\CsharpPatterns\lab9_Wrapper\Wrapper\obj\Debug\Wrapper.pdb

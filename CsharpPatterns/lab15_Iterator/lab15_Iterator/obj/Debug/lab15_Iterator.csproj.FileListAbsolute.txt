@@ -1,0 +1,5 @@
+E:\LEARN\Patterns\CsharpPatterns\lab15_Iterator\lab15_Iterator\bin\Debug\lab15_Iterator.exe.config
+E:\LEARN\Patterns\CsharpPatterns\lab15_Iterator\lab15_Iterator\bin\Debug\lab15_Iterator.exe
+E:\LEARN\Patterns\CsharpPatterns\lab15_Iterator\lab15_Iterator\bin\Debug\lab15_Iterator.pdb
+E:\LEARN\Patterns\CsharpPatterns\lab15_Iterator\lab15_Iterator\obj\Debug\lab15_Iterator.exe
+E:\LEARN\Patterns\CsharpPatterns\lab15_Iterator\lab15_Iterator\obj\Debug\lab15_Iterator.pdb
